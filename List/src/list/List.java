@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lisp;
+package list;
 
 /**
  *
  * @author Анастасия
  */
-public class Lisp {
+public class List {
 
     /**
      * @param args the command line arguments
